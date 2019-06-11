@@ -1,7 +1,7 @@
 $(function(){
 	$.ajax({
 	        type:"GET",
-	        url:"https://www.baidu.com/",
+iiiii      url:"https://www.baidu.com/",
 			async: false,
 	        success:function(data){
 				alert(1111)
